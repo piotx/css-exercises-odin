@@ -25,6 +25,8 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: var(--standard-gap);
+  display: flex;
+  gap: var(--standard-gap);
 }
 
 .icon {
@@ -78,20 +80,10 @@ button.cancel {
 .header {
   font-size: 1.1rem;
   font-weight: 700;
-}
-
-.header-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin-bottom: 5px;
-}
-
-.container {
-  display: flex;
-  gap: var(--standard-gap);
-}
-
-.body-container {
 }
 
 .text {
