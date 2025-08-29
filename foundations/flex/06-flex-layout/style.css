@@ -48,7 +48,7 @@ input {
   border: 1px solid #ddd;
   border-radius: 16px;
   padding: 8px 24px;
-  margin: 5px;
+  margin: 10px;
   width: 400px;
 }
 
@@ -59,8 +59,8 @@ ul {
 
 a {
   text-decoration: none;
-  color: rgb(167, 160, 151);
-  font-size: 13px;
+  color: rgb(74, 71, 66);
+  font-size: 14px;
 }
 
 
